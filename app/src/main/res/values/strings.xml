@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="codigo">Código</string>
+    <string name="valor">Valor</string>
+    <string name="login">Entrar</string>
+    <string name="title_activity_login">Login</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="idade">Idade</string>
+    <string name="curso">Curso</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="lista">Lista de Aluno</string>
+    <string name="add_aluno">Adicionar Aluno</string>
+    <string name="alunos_cadastrdos">Lista de Alunos Cadastrado</string>
+    <string name="alteraar">editar</string>
+
+
+    <!--Mensagens de erro e notificações-->
+    <string name="erro_autenticação">O usuário e/ou a senha estão incorretos! Por favor tentar Novamente</string>
+    <string name="registro_salvo">Registro salvo com sucesso!</string>
+    <string name="erro_salvar">Erro ao salvar!</string>
+
+
+    <string-array name="cursos_nome">
+        <item>Engenharia de Computação</item>
+        <item>Engenharia de Produção</item>
+        <item>Sistemas da informação</item>
+        <item>Nutrição</item>
+    </string-array>
+
+</resources>
